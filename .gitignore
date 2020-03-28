@@ -1,0 +1,15 @@
+# Local .terraform directories
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# Crash log files
+crash.log
+
+# the secret.tfvars file that contains the password
+secret.tfvars
+
+# the ssh key pairs
+vsc-linux-key*
